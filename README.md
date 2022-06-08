@@ -4,7 +4,7 @@ By processing, exploring, and analyzing the Superstore sample data available in 
 
 ## Chart
 
-![]()
+![](salesChart.jpg)
 
 
 ## References
